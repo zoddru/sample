@@ -1,0 +1,7 @@
+{
+	"metricType-array": [
+		{"name": "Matt", "country": "NZ"},
+		{"name": "Pete", "country": "AU"},
+		{"name": "Mikey", "country": "NZ"}
+	]
+}
